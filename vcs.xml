@@ -1,0 +1,65 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://np-develop.backlog.jp" />
+          <option name="userName" value="kyokota" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-sapi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-rapi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-smdl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-mpwb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-nptl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-sptl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-async.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/paleale-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/atone-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://np-develop.backlog.jp/git/ATN/atone-deploy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tomkenta/HandCheck" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/RubymineProjects/AtoneProject" />
+  </component>
+</application>
