@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="02ca182a-2e6d-499b-9288-b57e109c2df5" name="Copy of project-level server 'Raspberry Pi'" url="http://192.168.17.55">
+        <fileTransfer host="192.168.17.55" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
