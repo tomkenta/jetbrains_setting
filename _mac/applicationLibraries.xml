@@ -1860,6 +1860,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-c74235a3dd3a/config" />
       </SOURCES>
     </library>
+    <library name="paleale_common (v0.0.1@f6d92b, rbenv: 2.3.3-paleale-nptl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/config" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.20.0, rbenv: 2.3.3-paleale-nptl) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.20.0" />
