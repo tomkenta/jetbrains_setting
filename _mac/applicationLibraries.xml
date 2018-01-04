@@ -2570,6 +2570,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-1120ce0b3b95/config" />
       </SOURCES>
     </library>
+    <library name="paleale_common (v0.0.1@141730, rbenv: 2.3.3-paleale-nptl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-141730ef7ffc/config" />
+      </SOURCES>
+    </library>
     <library name="paleale_common (v0.0.1@1f80eb, rbenv: 2.3.3-paleale-nptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-1f80eb190f78/db" />
