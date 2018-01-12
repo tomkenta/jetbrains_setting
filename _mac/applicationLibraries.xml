@@ -382,6 +382,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-handcheck/lib/ruby/gems/2.3.0/gems/arel-8.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.3.0, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="autodoc (v0.6.0, rbenv: 2.3.3-paleale-nptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/autodoc-0.6.0/lib" />
@@ -476,10 +484,12 @@
     </library>
     <library name="bcrypt (v3.1.11, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
@@ -748,11 +758,13 @@
     </library>
     <library name="byebug (v9.0.6, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
@@ -1616,12 +1628,14 @@
     </library>
     <library name="ffi (v1.9.18, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ffi-1.9.18/lib" />
@@ -2334,6 +2348,7 @@
     </library>
     <library name="json (v1.8.6, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -2343,6 +2358,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/json-1.8.6/data" />
@@ -2918,6 +2934,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/momentjs-rails-2.17.1/vendor" />
       </SOURCES>
     </library>
+    <library name="mry (v0.52.0.0, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/mry-0.52.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/mry-0.52.0.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/mry-0.52.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/mry-0.52.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/mry-0.52.0.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/mry-0.52.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.12.1, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
@@ -3202,6 +3230,7 @@
     </library>
     <library name="nokogiri (v1.8.0, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/lib" />
@@ -3210,6 +3239,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.0/lib" />
@@ -3528,6 +3558,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/config" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.2, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="pg (v0.19.0, rbenv: 2.3.3-paleale-sapi) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
@@ -3558,10 +3606,12 @@
     </library>
     <library name="pg (v0.21.0, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/pg-0.21.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/pg-0.21.0/lib" />
       </SOURCES>
@@ -3620,6 +3670,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/power_assert-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="protokoll (v2.0.1, rbenv: 2.3.3-paleale-common) [gem]">
@@ -4116,6 +4174,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-handcheck/lib/ruby/gems/2.3.0/gems/railties-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v3.0.0, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, rbenv: 2.3.3-handcheck) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-handcheck/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
@@ -4264,11 +4330,13 @@
     </library>
     <library name="rb-fsevent (v0.9.8, rbenv: 2.3.3-paleale-common) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
@@ -4500,6 +4568,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-handcheck/lib/ruby/gems/2.3.0/gems/rspec-support-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.52.0, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rubocop-0.52.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.1.beta9, rbenv: 2.3.3-paleale-nptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
@@ -4510,6 +4592,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.5.0, rbenv: 2.3.3-handcheck) [gem]">
@@ -5298,6 +5388,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-handcheck/lib/ruby/gems/2.3.0/gems/uglifier-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.3.0, rbenv: 2.3.3-paleale-common) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
       </SOURCES>
     </library>
     <library name="virtus (v1.0.5, rbenv: 2.3.3-handcheck) [gem]">
