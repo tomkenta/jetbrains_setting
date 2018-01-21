@@ -7,6 +7,10 @@
   <action id="EditorCutLineBackward">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Emacs+.Yank">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
