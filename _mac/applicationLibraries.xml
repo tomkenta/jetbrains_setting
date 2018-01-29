@@ -5574,6 +5574,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-d5243bd8dec6/config" />
       </SOURCES>
     </library>
+    <library name="paleale_common (v0.0.1@f364a0, rbenv: 2.3.3-paleale-nptl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f364a0234c39/config" />
+      </SOURCES>
+    </library>
     <library name="paleale_common (v0.0.1@f6d92b, rbenv: 2.3.3-paleale-nptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-f6d92b8dc409/db" />
