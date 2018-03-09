@@ -18,6 +18,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Macro.Reformatted Save">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Macro.formatted save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
