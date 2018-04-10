@@ -698,6 +698,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.4.0, rbenv: 2.3.3-paleale-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
@@ -1366,6 +1374,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/tmp" />
+      </SOURCES>
+    </library>
+    <library name="by_star (v3.0.0, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/tmp" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/tmp" />
       </SOURCES>
     </library>
     <library name="by_star (v3.0.0, rbenv: 2.3.3-paleale-smdl) [gem]">
@@ -3686,6 +3704,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/gems/httpi-2.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="httpi (v2.4.3, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/httpi-2.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/httpi-2.4.3/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, rbenv: 2.3.3-paleale-mpwb) [gem]">
@@ -6584,6 +6610,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/config" />
       </SOURCES>
     </library>
+    <library name="paleale_common (v0.0.1@7de011, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/config" />
+      </SOURCES>
+    </library>
     <library name="paleale_common (v0.0.1@7de011, rbenv: 2.3.3-paleale-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/bundler/gems/paleale-common-7de011ea240d/db" />
@@ -6744,6 +6786,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.1, rbenv: 2.3.3-paleale-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
@@ -6780,6 +6830,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.0.1, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.19.0, rbenv: 2.3.3-paleale-mpwb) [gem]">
@@ -7004,6 +7064,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, rbenv: 2.3.3-paleale-smdl) [gem]">
@@ -7956,6 +8024,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v3.0.0, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rainbow (v3.0.0, rbenv: 2.3.3-paleale-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
@@ -8198,6 +8274,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/gems/ransack-1.8.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.8.8, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/ransack-1.8.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/ransack-1.8.8/lib" />
       </SOURCES>
     </library>
     <library name="ransack (v1.8.8, rbenv: 2.3.3-paleale-smdl) [gem]">
@@ -8712,6 +8796,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.52.1, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.52.1, rbenv: 2.3.3-paleale-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/bin" />
@@ -8776,6 +8874,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, rbenv: 2.3.3-paleale-smdl) [gem]">
@@ -10414,6 +10520,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-common/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.3.0, rbenv: 2.3.3-paleale-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.3.0, rbenv: 2.3.3-paleale-smdl) [gem]">
