@@ -2586,6 +2586,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2, rbenv: 2.3.3-daisy-smdl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta10, rbenv: 2.3.3-daisy-smdl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta10, rbenv: 2.3.3-paleale-admin) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-admin/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta10/ext" />
@@ -2630,6 +2650,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, rbenv: 2.3.3-daisy-smdl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.2, rbenv: 2.3.3-paleale-sapi) [gem]">
@@ -11076,6 +11104,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/assets" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta9, rbenv: 2.3.3-daisy-smdl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta9/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta9, rbenv: 2.3.3-paleale-admin) [gem]">
