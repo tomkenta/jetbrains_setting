@@ -1,5 +1,22 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Gem Manager" shouldLog="false" />
+    <notification groupId="Generate test" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Grep Console" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="IGNORE_GROUP" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="JSCS Config Import" displayType="NONE" shouldLog="false" />
+    <notification groupId="JSCS Messages" shouldLog="false" />
+    <notification groupId="JSON Schema" displayType="NONE" shouldLog="false" />
+    <notification groupId="Linters" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Power Save Mode" shouldLog="false" />
+    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldLog="false" />
     <notification groupId="Rubocop.Notification" shouldLog="false" />
+    <notification groupId="RVM Support" shouldLog="false" />
+    <notification groupId="System Health (minor)" displayType="NONE" shouldLog="false" />
+    <notification groupId="Test Runner" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
