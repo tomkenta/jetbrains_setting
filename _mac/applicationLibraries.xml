@@ -2944,6 +2944,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-bfedaacc4a67/config" />
       </SOURCES>
     </library>
+    <library name="daisy_common (v0.0.1@c69379, rbenv: 2.3.3-daisy-admin) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c69379d69405/config" />
+      </SOURCES>
+    </library>
     <library name="daisy_common (v0.0.1@c6b643, rbenv: 2.3.3-daisy-admin) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-c6b643ef096f/db" />
