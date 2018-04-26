@@ -2736,6 +2736,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-handcheck/lib/ruby/gems/2.3.0/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="daisy_common (v0.0.1@01d38b, rbenv: 2.3.3-daisy-admin) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-01d38bed1e14/config" />
+      </SOURCES>
+    </library>
     <library name="daisy_common (v0.0.1@069b45, rbenv: 2.3.3-daisy-admin) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-069b454ba0c0/db" />
@@ -2942,6 +2958,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7de671f22d3f/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7de671f22d3f/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7de671f22d3f/config" />
+      </SOURCES>
+    </library>
+    <library name="daisy_common (v0.0.1@7f58a8, rbenv: 2.3.3-daisy-admin) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/bundler/gems/daisy-common-7f58a8bd8378/config" />
       </SOURCES>
     </library>
     <library name="daisy_common (v0.0.1@7f9b36, rbenv: 2.3.3-daisy-smdl) [gem]">
