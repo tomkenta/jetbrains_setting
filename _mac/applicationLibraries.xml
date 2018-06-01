@@ -40,6 +40,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.7.1/lib" />
@@ -142,6 +150,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/actionpack-4.2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -248,6 +264,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/actionview-4.2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="actionview (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/actionview-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/actionview-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/actionview-4.2.7.1/lib" />
@@ -320,6 +344,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-handcheck/lib/ruby/gems/2.3.0/gems/actionview-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="active_model-errors_details (v1.3.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/active_model-errors_details-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/active_model-errors_details-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="active_model-errors_details (v1.3.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/active_model-errors_details-1.3.1/lib" />
@@ -374,6 +406,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/activejob-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/activejob-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/activejob-4.2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -480,6 +520,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/activemodel-4.2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/activemodel-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/activemodel-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/activemodel-4.2.7.1/lib" />
@@ -582,6 +630,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/activerecord-4.2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -952,6 +1008,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/akami-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="akami (v1.3.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/akami-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/akami-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="akami (v1.3.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/akami-1.3.1/lib" />
@@ -1084,6 +1148,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/annotate-2.7.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/annotate-2.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="annotate (v2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/annotate-2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/annotate-2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/annotate-2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/annotate-2.7.1/lib" />
       </SOURCES>
     </library>
     <library name="annotate (v2.7.1, rbenv: 2.3.3-paleale-nptl) [gem]">
@@ -1232,6 +1306,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/arel-6.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v6.0.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/arel-6.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/arel-6.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v6.0.4, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/arel-6.0.4/lib" />
@@ -1328,6 +1410,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.4.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ast-2.4.0/lib" />
@@ -1382,6 +1472,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/autodoc-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="autodoc (v0.6.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/autodoc-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/autodoc-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="autodoc (v0.6.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -1572,6 +1670,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/axiom-types-0.1.1/config" />
       </SOURCES>
     </library>
+    <library name="axiom-types (v0.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/axiom-types-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/axiom-types-0.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/axiom-types-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/axiom-types-0.1.1/config" />
+      </SOURCES>
+    </library>
     <library name="axiom-types (v0.1.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/axiom-types-0.1.1/lib" />
@@ -1752,6 +1860,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
@@ -1884,6 +2004,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/better_errors-2.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="better_errors (v2.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/better_errors-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="better_errors (v2.1.1, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/better_errors-2.1.1/lib" />
@@ -1970,6 +2098,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="binding_of_caller (v0.7.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.2, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -2666,6 +2806,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/tmp" />
       </SOURCES>
     </library>
+    <library name="by_star (v3.0.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/tmp" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/tmp" />
+      </SOURCES>
+    </library>
     <library name="by_star (v3.0.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/by_star-3.0.0/lib" />
@@ -2792,6 +2942,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="byebug (v9.0.6, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
     <library name="byebug (v9.0.6, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -3104,6 +3268,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/bin" />
@@ -3222,6 +3396,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/coercible-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/coercible-1.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="coercible (v1.0.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coercible-1.0.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coercible-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/coercible-1.0.0/config" />
       </SOURCES>
     </library>
     <library name="coercible (v1.0.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -3438,6 +3622,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.4, rbenv: 2.3.3-paleale-sapi) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.4/lib" />
@@ -3564,6 +3756,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/config-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="config (v1.4.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/config-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/config-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="config (v1.4.0, rbenv: 2.3.3-daisy-sptl) [gem]">
@@ -4636,6 +4836,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.3/features" />
       </SOURCES>
     </library>
+    <library name="database_cleaner (v1.5.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.3/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.3/features" />
+      </SOURCES>
+    </library>
     <library name="database_cleaner (v1.5.3, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.3/lib" />
@@ -4744,6 +4954,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/date_validator-0.7.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/date_validator-0.7.1/locales" />
+      </SOURCES>
+    </library>
+    <library name="date_validator (v0.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/date_validator-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/date_validator-0.7.1/locales" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/date_validator-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/date_validator-0.7.1/locales" />
       </SOURCES>
     </library>
     <library name="date_validator (v0.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -5046,6 +5266,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="debug_inspector (v0.0.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.2, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
@@ -5174,6 +5406,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/deep_merge-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="deep_merge (v1.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/deep_merge-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/deep_merge-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="deep_merge (v1.1.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/deep_merge-1.1.1/lib" />
@@ -5248,6 +5488,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/contrib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/recipes" />
+      </SOURCES>
+    </library>
+    <library name="delayed_job (v4.1.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job-4.1.2/recipes" />
       </SOURCES>
     </library>
     <library name="delayed_job (v4.1.2, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -5366,6 +5618,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="delayed_job_active_record (v4.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="delayed_job_active_record (v4.1.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/delayed_job_active_record-4.1.1/lib" />
@@ -5466,6 +5726,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/descendants_tracker-0.0.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/descendants_tracker-0.0.4/config" />
+      </SOURCES>
+    </library>
+    <library name="descendants_tracker (v0.0.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/descendants_tracker-0.0.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/descendants_tracker-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/descendants_tracker-0.0.4/config" />
       </SOURCES>
     </library>
     <library name="descendants_tracker (v0.0.4, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -5754,6 +6024,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.2.5, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
     <library name="diff-lcs (v1.2.5, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/bin" />
@@ -5922,6 +6204,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="docile (v1.1.5, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/docile-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/docile-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="docile (v1.1.5, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/docile-1.1.5/lib" />
@@ -6038,6 +6328,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/equalizer-0.0.11/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/equalizer-0.0.11/config" />
+      </SOURCES>
+    </library>
+    <library name="equalizer (v0.0.11, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/equalizer-0.0.11/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/equalizer-0.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/equalizer-0.0.11/config" />
       </SOURCES>
     </library>
     <library name="equalizer (v0.0.11, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -6504,6 +6804,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/factory_girl-4.8.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="factory_girl (v4.8.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl-4.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl-4.8.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl-4.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl-4.8.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="factory_girl (v4.8.0, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/factory_girl-4.8.0/lib" />
@@ -6674,6 +6984,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="factory_girl_rails (v4.8.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/pkg" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/tmp" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/pkg" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/tmp" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/features" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="factory_girl_rails (v4.8.0, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/factory_girl_rails-4.8.0/bin" />
@@ -6812,6 +7140,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-admin/lib/ruby/gems/2.3.0/gems/faraday-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.12.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/faraday-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/faraday-0.12.2/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.12.2, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -7114,6 +7450,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
+    <library name="globalid (v0.3.7, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/globalid-0.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/globalid-0.3.7/lib" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.3.7, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/globalid-0.3.7/lib" />
@@ -7256,6 +7600,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/grape-0.19.1/benchmark" />
       </SOURCES>
     </library>
+    <library name="grape (v0.19.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-0.19.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-0.19.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-0.19.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-0.19.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-0.19.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-0.19.1/benchmark" />
+      </SOURCES>
+    </library>
     <library name="grape (v0.19.1, rbenv: 2.3.3-paleale-nptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-nptl/lib/ruby/gems/2.3.0/gems/grape-0.19.1/lib" />
@@ -7330,6 +7686,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/grape-entity-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/grape-entity-0.6.0/bench" />
+      </SOURCES>
+    </library>
+    <library name="grape-entity (v0.6.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-entity-0.6.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-entity-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/grape-entity-0.6.0/bench" />
       </SOURCES>
     </library>
     <library name="grape-entity (v0.6.0, rbenv: 2.3.3-paleale-sapi) [gem]">
@@ -7638,6 +8004,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="gyoku (v1.3.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="gyoku (v1.3.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/gyoku-1.3.1/lib" />
@@ -7782,6 +8156,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/hashie-3.4.6/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.4.6, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/hashie-3.4.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/hashie-3.4.6/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie (v3.4.6, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/hashie-3.4.6/lib" />
@@ -7876,6 +8258,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/hirb-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hirb (v0.7.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/hirb-0.7.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/hirb-0.7.3/lib" />
       </SOURCES>
     </library>
     <library name="hirb (v0.7.3, rbenv: 2.3.3-daisy-sptl) [gem]">
@@ -8094,6 +8484,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/httpi-2.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="httpi (v2.4.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/httpi-2.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/httpi-2.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="httpi (v2.4.3, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/httpi-2.4.3/lib" />
@@ -8292,6 +8690,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/i18n_generators-2.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="i18n_generators (v2.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/i18n_generators-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/i18n_generators-2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n_generators (v2.1.1, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/i18n_generators-2.1.1/lib" />
@@ -8366,6 +8772,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="ice_nine (v0.11.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ice_nine-0.11.2/benchmarks" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -9768,6 +10186,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/json_expressions-0.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="json_expressions (v0.8.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/json_expressions-0.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/json_expressions-0.8.3/lib" />
+      </SOURCES>
+    </library>
     <library name="json_expressions (v0.8.3, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/json_expressions-0.8.3/lib" />
@@ -9862,6 +10288,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v1.5.6, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/jwt-1.5.6/lib" />
       </SOURCES>
     </library>
     <library name="jwt (v1.5.6, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -10176,6 +10610,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/benchmark" />
       </SOURCES>
     </library>
+    <library name="kramdown (v1.13.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/benchmark" />
+      </SOURCES>
+    </library>
     <library name="kramdown (v1.13.2, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/kramdown-1.13.2/bin" />
@@ -10418,6 +10868,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.0.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/benchmark" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/lib" />
@@ -10572,6 +11032,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.6.4, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
@@ -10682,6 +11150,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/metaclass-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="metaclass (v0.0.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/metaclass-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/metaclass-0.0.4/lib" />
       </SOURCES>
     </library>
     <library name="metaclass (v0.0.4, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -10860,6 +11336,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
@@ -10962,6 +11446,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2016.0521, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -11444,6 +11938,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/yard-templates" />
       </SOURCES>
     </library>
+    <library name="mocha (v1.2.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/yard-templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/yard-templates" />
+      </SOURCES>
+    </library>
     <library name="mocha (v1.2.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/bin" />
@@ -11670,6 +12178,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.12.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.12.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
@@ -11790,6 +12306,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="multi_xml (v0.6.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.6.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
@@ -11886,6 +12410,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="multipart-post (v2.0.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multipart-post (v2.0.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/multipart-post-2.0.0/lib" />
@@ -11970,6 +12502,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/mustermann-0.4.0/bench" />
       </SOURCES>
     </library>
+    <library name="mustermann (v0.4.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mustermann-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mustermann-0.4.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mustermann-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mustermann-0.4.0/bench" />
+      </SOURCES>
+    </library>
     <library name="mustermann (v0.4.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/mustermann-0.4.0/lib" />
@@ -12034,6 +12576,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/mustermann-grape-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mustermann-grape (v0.4.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mustermann-grape-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/mustermann-grape-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="mustermann-grape (v0.4.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -12306,6 +12856,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/recipes" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v3.18.1.330, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/ui" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/recipes" />
+      </SOURCES>
+    </library>
     <library name="newrelic_rpm (v3.18.1.330, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/newrelic_rpm-3.18.1.330/ui" />
@@ -12568,6 +13138,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.7.0.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0.1" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nokogiri-1.7.0.1/suppressions" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.7.0.1, rbenv: 2.3.3-paleale-sapi) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0.1" />
@@ -12786,6 +13376,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="nori (v2.6.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/nori-2.6.0/benchmark" />
+      </SOURCES>
+    </library>
     <library name="nori (v2.6.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
@@ -12996,6 +13596,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/oauth-0.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="oauth (v0.5.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/oauth-0.5.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/oauth-0.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/oauth-0.5.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/oauth-0.5.4/lib" />
+      </SOURCES>
+    </library>
     <library name="oauth (v0.5.4, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/oauth-0.5.4/bin" />
@@ -13112,6 +13722,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-common/lib/ruby/gems/2.3.0/gems/oauth2-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="oauth2 (v1.4.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/oauth2-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/oauth2-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="oauth2 (v1.4.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -13746,6 +14364,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/parallel-1.12.1/lib" />
@@ -13902,6 +14528,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-smdl/lib/ruby/gems/2.3.0/gems/parser-2.4.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.5.0.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.5.0.1, rbenv: 2.3.3-paleale-sapi) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-paleale-sapi/lib/ruby/gems/2.3.0/gems/parser-2.5.0.1/bin" />
@@ -13932,6 +14568,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/sample" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.19.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/pg-0.19.0/sample" />
       </SOURCES>
     </library>
     <library name="pg (v0.19.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -14156,6 +14806,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/polyamorous-1.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="polyamorous (v1.3.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/polyamorous-1.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/polyamorous-1.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="polyamorous (v1.3.3, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/polyamorous-1.3.3/lib" />
@@ -14348,6 +15006,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="powerpack (v0.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="powerpack (v0.1.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/powerpack-0.1.1/lib" />
@@ -14456,6 +15122,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/protokoll-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="protokoll (v2.0.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/protokoll-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/protokoll-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="protokoll (v2.0.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -15018,6 +15692,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.5, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-1.6.5/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.5, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rack-1.6.5/bin" />
@@ -15188,6 +15876,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rack-accept-0.4.5/lib" />
       </SOURCES>
     </library>
+    <library name="rack-accept (v0.4.5, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-accept-0.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-accept-0.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-accept (v0.4.5, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rack-accept-0.4.5/lib" />
@@ -15234,6 +15930,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rack-cors-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-cors (v0.4.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-cors-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-cors-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-cors (v0.4.0, rbenv: 2.3.3-paleale-mpwb) [gem]">
@@ -15298,6 +16002,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rack-mini-profiler-0.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-mini-profiler (v0.10.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-mini-profiler-0.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-mini-profiler-0.10.1/lib" />
       </SOURCES>
     </library>
     <library name="rack-mini-profiler (v0.10.1, rbenv: 2.3.3-paleale-sapi) [gem]">
@@ -15394,6 +16106,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.6.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -15508,6 +16228,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rails-4.2.7.1/guides" />
       </SOURCES>
     </library>
+    <library name="rails (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-4.2.7.1/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-4.2.7.1/guides" />
+      </SOURCES>
+    </library>
     <library name="rails (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rails-4.2.7.1/guides" />
@@ -15618,6 +16346,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -15740,6 +16476,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.8/lib" />
       </SOURCES>
     </library>
+    <library name="rails-dom-testing (v1.0.8, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-dom-testing (v1.0.8, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/rails-dom-testing-1.0.8/lib" />
@@ -15818,6 +16562,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -15920,6 +16672,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rails-i18n-4.0.9/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rails-i18n-4.0.9/rails" />
+      </SOURCES>
+    </library>
+    <library name="rails-i18n (v4.0.9, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-i18n-4.0.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-i18n-4.0.9/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-i18n-4.0.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rails-i18n-4.0.9/rails" />
       </SOURCES>
     </library>
     <library name="rails-i18n (v4.0.9, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -16060,6 +16822,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/railties-4.2.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="railties (v4.2.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/railties-4.2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/railties-4.2.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/railties-4.2.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/railties-4.2.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="railties (v4.2.7.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/railties-4.2.7.1/bin" />
@@ -16180,6 +16952,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v3.0.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v3.0.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -16674,6 +17454,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/ransack-1.8.8/lib" />
       </SOURCES>
     </library>
+    <library name="ransack (v1.8.8, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ransack-1.8.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ransack-1.8.8/lib" />
+      </SOURCES>
+    </library>
     <library name="ransack (v1.8.8, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ransack-1.8.8/lib" />
@@ -16988,6 +17776,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rspec-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.5.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.5.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rspec-3.5.0/lib" />
@@ -17082,6 +17878,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.5.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.5.4, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -17206,6 +18012,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.5.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.5.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
@@ -17308,6 +18122,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.5.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.5.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -17414,6 +18236,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-rails (v3.5.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.5.2, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rspec-rails-3.5.2/lib" />
@@ -17516,6 +18346,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.5.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-support-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rspec-support-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.5.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -17672,6 +18510,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/assets" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.52.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/rubocop-0.52.1/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.52.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -17858,6 +18710,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.9.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -18328,6 +19188,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/savon-2.11.2/lib" />
       </SOURCES>
     </library>
+    <library name="savon (v2.11.2, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/savon-2.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/savon-2.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="savon (v2.11.2, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/savon-2.11.2/lib" />
@@ -18434,6 +19302,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/sequenced-3.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sequenced (v3.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sequenced-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sequenced-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="sequenced (v3.1.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -18574,6 +19450,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/gemfiles" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/doc_config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/.hound_config" />
+      </SOURCES>
+    </library>
+    <library name="shoulda-matchers (v3.1.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/doc_config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/.hound_config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/script" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/doc_config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/shoulda-matchers-3.1.1/.hound_config" />
       </SOURCES>
     </library>
     <library name="shoulda-matchers (v3.1.1, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -18730,6 +19624,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/simplecov-0.12.0/features" />
       </SOURCES>
     </library>
+    <library name="simplecov (v0.12.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-0.12.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-0.12.0/features" />
+      </SOURCES>
+    </library>
     <library name="simplecov (v0.12.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/simplecov-0.12.0/lib" />
@@ -18848,6 +19752,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/views" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/assets" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/public" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-html (v0.10.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-html-0.10.0/public" />
       </SOURCES>
     </library>
     <library name="simplecov-html (v0.10.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -18996,6 +19914,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/views" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/assets" />
+      </SOURCES>
+    </library>
+    <library name="simplecov-rcov (v0.2.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/simplecov-rcov-0.2.3/assets" />
       </SOURCES>
     </library>
     <library name="simplecov-rcov (v0.2.3, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -19184,6 +20114,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/socksify-1.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="socksify (v1.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/socksify-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/socksify-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/socksify-1.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/socksify-1.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="socksify (v1.7.1, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/socksify-1.7.1/bin" />
@@ -19274,6 +20214,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="sorcery (v0.9.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="sorcery (v0.9.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/sorcery-0.9.1/lib" />
@@ -19362,6 +20312,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/spring-2.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/spring-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring (v2.0.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/spring-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/spring-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/spring-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/spring-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="spring (v2.0.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -19486,6 +20446,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/spring-commands-rspec-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring-commands-rspec (v1.0.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/spring-commands-rspec-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/spring-commands-rspec-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="spring-commands-rspec (v1.0.4, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -19630,6 +20598,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/sprockets-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.7.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sprockets-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sprockets-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sprockets-3.7.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sprockets-3.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v3.7.1, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/sprockets-3.7.1/bin" />
@@ -19760,6 +20738,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/sprockets-rails-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sprockets-rails-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/sprockets-rails-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v3.2.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -20176,6 +21162,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
+    <library name="thor (v0.19.4, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.4, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
@@ -20584,6 +21580,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/timecop-0.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="timecop (v0.8.1, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/timecop-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/timecop-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="timecop (v0.8.1, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/timecop-0.8.1/lib" />
@@ -20662,6 +21666,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/tool-0.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="tool (v0.2.3, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/tool-0.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/tool-0.2.3/lib" />
       </SOURCES>
     </library>
     <library name="tool (v0.2.3, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -20980,6 +21992,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
       </SOURCES>
     </library>
+    <library name="unicode-display_width (v1.3.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/data" />
+      </SOURCES>
+    </library>
     <library name="unicode-display_width (v1.3.0, rbenv: 2.3.3-daisy-smdl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.3.0/lib" />
@@ -21082,6 +22104,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/virtus-1.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="virtus (v1.0.5, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/virtus-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/virtus-1.0.5/lib" />
       </SOURCES>
     </library>
     <library name="virtus (v1.0.5, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -21194,6 +22224,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-rapi/lib/ruby/gems/2.3.0/gems/wasabi-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="wasabi (v3.5.0, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/wasabi-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/wasabi-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="wasabi (v3.5.0, rbenv: 2.3.3-daisy-smdl) [gem]">
@@ -21500,6 +22538,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/yard-0.9.8/templates" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/yard-0.9.8/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="yard (v0.9.8, rbenv: 2.3.3-daisy-sapi) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/templates" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sapi/lib/ruby/gems/2.3.0/gems/yard-0.9.8/benchmarks" />
       </SOURCES>
     </library>
     <library name="yard (v0.9.8, rbenv: 2.3.3-paleale-nptl) [gem]">
