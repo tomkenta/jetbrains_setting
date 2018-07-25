@@ -12020,6 +12020,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8-3.16.14.19-x86_64-darwin (v3.16.14.19, rbenv: 2.3.3-daisy-smdl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/vendor" />
+      </SOURCES>
+    </library>
     <library name="libv8-3.16.14.19-x86_64-darwin (v3.16.14.19, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-16/ext" />
@@ -19640,6 +19652,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/ref-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="ref (v2.0.0, rbenv: 2.3.3-daisy-smdl) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ref-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ref-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ref-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ref (v2.0.0, rbenv: 2.3.3-daisy-sptl) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-sptl/lib/ruby/gems/2.3.0/gems/ref-2.0.0/ext" />
@@ -23436,6 +23458,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-nptl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="therubyracer (v0.12.3, rbenv: 2.3.3-daisy-smdl) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/lib" />
       </SOURCES>
     </library>
     <library name="therubyracer (v0.12.3, rbenv: 2.3.3-daisy-sptl) [gem]">
