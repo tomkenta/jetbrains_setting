@@ -2759,13 +2759,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.12/spec" />
@@ -3044,14 +3042,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/binding_of_caller-0.7.2/test" />
@@ -4235,13 +4231,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/9.0.6" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
@@ -8662,12 +8656,10 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
@@ -11838,7 +11830,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/lib" />
@@ -11846,7 +11837,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/ffi-1.9.17/lib" />
@@ -20027,7 +20017,6 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/lib" />
@@ -20037,7 +20026,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/nokogiri-1.6.8.1/lib" />
@@ -22229,14 +22217,12 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/pg-0.19.0/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/pg-0.19.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/pg/0.19.0" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/pg-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/pg-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/pg-0.19.0/spec" />
@@ -26812,13 +26798,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.8/lib" />
@@ -31955,13 +31939,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/terminal-notifier/1.7.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.7.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.7.1/vendor" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/terminal-notifier/1.7.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.7.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.7.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/terminal-notifier-1.7.1/vendor" />
@@ -32313,13 +32295,11 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3-daisy-smdl/lib/ruby/gems/2.3.0/gems/therubyracer-0.12.3/spec" />
